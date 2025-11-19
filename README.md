@@ -18,13 +18,15 @@
 </p> 
 
 
-
-
 <p align="justify">
 4. Con las métricas explicadas, se corrigen los parámetros relacionados a la media y la desviación ajustados para cada estación para cada año. En Chadwick et al., 2018 se sugiere el análisis de las métricas de cambio para abordar los cambios proyectados desde una perspectiva de los percentiles y escenarios más o menos probables.
 </p>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FelipeRivas5492/Generador-Climatico-Estacionario-y-No-Estacionario/main/PUCON.png" alt="PLOT_PUCON">
+</div>
+<p><strong>Figura 5</strong>: Serie anual de precipitación para finales de 2099 según la situación estacionaria y no estacionaria, de acuerdo con las probabilidades de excedencia de cambios proyectados.</p>
 
 
 
