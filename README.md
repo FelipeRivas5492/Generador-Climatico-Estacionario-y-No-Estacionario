@@ -4,7 +4,7 @@
 <strong>Chadwick, C., Gironás, J., Vicuña, S., Meza, F., and McPhee, J. (2018) Using a statistical pre-analysis approach as an ensemble technique for the unbiased mapping of GCM changes to local stations. J. Hydrometeor., 19(9), 1447-1465. https://doi.org/10.1175/JHM-D-17-0198.1 </strong>
 </p>
 
- y GCM EN: </strong>
+<strong>  y GCM EN: </strong>
 
 <p align="justify">
 <strong>Vasquez, Nicolas; Mendoza, Pablo A., 2024, "Statistically downscaled and bias corrected CMIP6 models for Continental Chile under scenario SSP5-8.5", https://doi.org/10.7910/DVN/O3YBOT, Harvard Dataverse, V1.</strong>
