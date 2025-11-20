@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/FelipeRivas5492/Generador-Climatico-Estacionario-y-No-Estacionario/main/OEPUCON.png" alt="PLOT_PUCON">
 </div>
-<p><strong>Figura 5</strong>: Serie anual de precipitación para finales de 2099 según la situación estacionaria y no estacionaria con generador climático para modelos probabilísticos con mejor ajuste según KS, de acuerdo con las probabilidades de excedencia de cambios proyectados. Se muestran los estadísticos no estacionarios para P50. </p>
+<p><strong>Figura 5</strong>: Serie anual de precipitación para finales de 2099 según la situación estacionaria y no estacionaria con generador climático para modelos probabilísticos con mejor ajuste según KS. Se muestran los estadísticos no estacionarios para P50, de acuerdo con las probabilidades de excedencia de cambios proyectados. </p>
 
 https://www.youtube.com/watch?v=kCMFqDb-uXs
 
