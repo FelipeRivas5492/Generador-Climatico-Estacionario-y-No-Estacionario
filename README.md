@@ -16,7 +16,7 @@
   
   
 <p align="justify"> 
- 2. Para obtener los números aleatorios se calcula la descomposición de Cholesky de la matriz de correlación, que permite transformar valores independientes en valores correlacionados según la estructura intra e inter variable del clima observado. Con la descomposición de Cholesky y una matriz con valores que distribuyen normal e independiente se obtiene una matriz de aleatorios correlacionados entre 0 y 1. 
+ 2. Para obtener los números aleatorios se calcula la descomposición de Cholesky de la matriz de correlación, que permite transformar valores independientes en valores correlacionados según la estructura intra e inter variable del clima observado en las estaciones de la zona de estudio. Con la descomposición de Cholesky y una matriz con valores que distribuyen normal e independiente se obtiene una matriz de aleatorios correlacionados entre 0 y 1. 
 </p>
 
 <p align="justify">
