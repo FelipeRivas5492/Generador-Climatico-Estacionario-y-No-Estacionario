@@ -29,6 +29,10 @@
 </p>
 
 
+<p align="justify">5. El uso de GCM ya corregidos y escalados se justifica en la medida en que la diferencia entre los cambios proyectados del GCM crudo y el corregido sea razonable.
+</p>
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/FelipeRivas5492/Generador-Climatico-Estacionario-y-No-Estacionario/main/OEPUCON.png" alt="PLOT_PUCON">
 </div>
