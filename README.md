@@ -29,7 +29,7 @@
 </p>
 
 
-<p align="justify">5. El uso de GCM ya corregidos y escalados se justifica en la medida que la diferencia entre los cambios proyectados del GCM crudo y el corregido sea razonable.
+<p align="justify">5. El uso de GCM ya corregidos y escalados se justifica en la medida que la diferencia entre los cambios proyectados del GCM crudo y el corregido sea razonable. Se usó la celda que contiene a la estación y no la interpolación de las 4 mas cercanas para simplificar la obtención de las variables de los GCM.
 </p>
 
 
