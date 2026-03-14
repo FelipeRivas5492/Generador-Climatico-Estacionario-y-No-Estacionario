@@ -20,7 +20,7 @@
 </p>
 
 <p align="justify">
-3. Para la generación de series no estacionarias, se usan las métricas de cambio NMAP_gcm_t, DMAT_gcm_t, NMSDP_gcm_t y DMSDT_gcm_t, estas se calculan para cada GCM y cada año tal que t_i &lt; t, con t_i el fin del período histórico. Estas métricas representan los cambios relativos móviles proyectados, para el caso de la precipitación corresponde a la proporción entre el promedio móvil y el promedio histórico del GCM y para las temperaturas es la diferencia entre el promedio móvil y el promedio histórico del GCM. 
+3. Para la generación de series no estacionarias, se usan las métricas de cambio NMAP_gcm_t, DMAT_gcm_t, NMSDP_gcm_t y DMSDT_gcm_t, estas se calculan para cada GCM y cada año tal que t_i &lt; t, con t_i el fin del período histórico. Estas métricas representan los cambios relativos móviles proyectados, para el caso de la precipitación corresponde a la proporción entre el promedio móvil y el promedio histórico del GCM (NMAP) y para las temperaturas es la diferencia entre el promedio móvil y el promedio histórico del GCM (DMAT). Para NMSDP y DMSDT es la misma lógica pero para la desviación estándar de las variables.
 </p> 
 
 
