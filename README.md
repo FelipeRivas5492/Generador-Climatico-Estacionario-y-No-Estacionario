@@ -25,7 +25,7 @@
 
 
 <p align="justify">
-4. Con las métricas explicadas, se corrigen los parámetros relacionados a la media y la desviación ajustados para cada estación para cada año. En Chadwick et al., 2018 se sugiere el análisis de las métricas de cambio para abordar los cambios proyectados desde una perspectiva de los percentiles y escenarios más o menos probables.
+4. Con las métricas explicadas, se corrigen los parámetros relacionados a la media y la desviación ajustados para cada estación para cada año. En Chadwick et al., 2018 se sugiere el análisis de las métricas de cambio para abordar los cambios proyectados desde una perspectiva de percentiles y escenarios más o menos probables.
 </p>
 
 
